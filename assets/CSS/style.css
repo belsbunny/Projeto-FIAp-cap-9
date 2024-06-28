@@ -1,0 +1,66 @@
+.receitas {
+    width: 50%;
+}
+
+.despesas {
+    width: 50%;
+}
+
+.financeiro {
+    display: flex;
+}
+
+.seta {
+    font-size: 40px;
+}
+
+.cima {
+    color: #52af3d;
+}
+
+.baixo {
+    color: #e32f2f;
+}
+
+.titulo {
+    background-color: rgb(14, 14, 185);
+    color: #fff;
+    height: 8rem;
+}
+
+.grafico {
+    width: 50%;
+}
+
+.legenda {
+    width: 50%;
+}
+.item {
+    display: grid;
+    grid-template-columns: 10% 20% 40%;
+}
+
+.educacao {
+    color: #4ba8eb;
+}
+
+.casa {
+    color: #ff3beb;
+}
+
+.alimentacao {
+    color: #eeff29;
+}
+
+.outros {
+    color: #7724e0;
+}
+
+.movimentacao {
+    display: grid;
+    grid-template-columns: 10% 40% 40%;
+}
+
+.hora {
+    color: #a9a9a9;
+}
